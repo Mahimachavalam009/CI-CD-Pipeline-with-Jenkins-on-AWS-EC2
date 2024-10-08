@@ -4,7 +4,7 @@
 ### Files Overview
 
 - **pom.xml**: Maven configuration file for managing dependencies and build configuration.
-- **App.java**: The main Java application that outputs "Hello, World!" to the console.
+- **App.java**: The main Java application that includes a simple running application. This version will implement a basic command-line interface (CLI) that allows users to interact with the application
 
 ## Prerequisites
 
