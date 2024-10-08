@@ -23,11 +23,15 @@ cd your-CI-CD-Pipeline-with-Jenkins-on-AWS-EC2
 ``` 
 ### 2. Build the project
 Make sure you have Maven installed on your local machine. To build the project, run:
+```bash
 mvn clean install
+```
 
 ### 3. Running the Application
 After building, you can run the application using the following command:
+```bash
 java -cp target/my-java-app-1.0-SNAPSHOT.jar com.example.App
+```
 
 CI/CD Setup with Jenkins
 Setting Up Jenkins
