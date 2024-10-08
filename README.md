@@ -42,3 +42,14 @@ mvn clean install
 5. Set Up Build Triggers
 Enable "GitHub hook trigger for GITScm polling" if you want builds triggered on code changes.
 
+Running the Application 
+After updating the App.java file, you can build and run the application again: 
+
+1. Build the project:
+``` bash
+mvn clean install
+```
+2. Run the Application:
+```bash
+java -cp target/my-java-app-1.0-SNAPSHOT.jar com.example.App
+```
