@@ -19,7 +19,7 @@
 
 ```bash
 git clone https://github.com/MahimaChavalam09/CI-CD-Pipeline-with-Jenkins-on-AWS-EC2.git
-cd your-CI-CD-Pipeline-with-Jenkins-on-AWS-EC2
+cd CI-CD-Pipeline-with-Jenkins-on-AWS-EC2
 ``` 
 ### 2. Build the project
 Make sure you have Maven installed on your local machine. To build the project, run:
