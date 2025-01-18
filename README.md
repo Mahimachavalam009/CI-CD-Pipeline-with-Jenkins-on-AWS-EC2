@@ -9,7 +9,7 @@
 ## Prerequisites
 
 - Java 11 or higher
-- Maven 3.6 or higher
+- Maven 3.6 or higher 
 - An AWS account
 - Jenkins installed on an AWS EC2 instance (refer to [Setting Up Jenkins on AWS](https://www.jenkins.io/doc/book/installing/#installing-jenkins)).
 
