@@ -57,4 +57,4 @@ mvn clean install
 ```bash
 java -cp target/my-java-app-1.0-SNAPSHOT.jar com.example.App
 ```
-Work in progress.
+
